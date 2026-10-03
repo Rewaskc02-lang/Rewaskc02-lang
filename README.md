@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="58%" valign="top">
       <p>
         Software engineer focused on building robust, scalable backend architectures and intelligent agentic systems. Experienced in architecting production-ready RESTful services, integrating LLM function calling for autonomous workflows, and hardening distributed cloud software.
       </p>
@@ -34,8 +34,22 @@
         <li><b>Examination:</b> Cleared the National Defence Academy (NDA) Written Examination</li>
       </ul>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Rewaskc02-lang/Rewaskc02-lang/main/assets/mountain.jpg" width="280" alt="Mountain Landscape" />
+    <td width="42%" align="center" valign="middle">
+<pre align="center">
+      _.~"~._.~"~._.~"~._.~"~._.~"~._
+      \ _ /  \ _ /  \ _ /  \ _ /  \ _ /
+   ----'------'------'------'------'----
+                 /\
+                /  \         /\
+               /    \  /\   /  \      /\
+        /\    /      \/  \ /    \    /  \
+       /  \  /  /\    /   \      \  /    \
+      /    \/  /  \  /     \      \/      \
+     /      \ /    \/       \      \       \
+   _/__/\____\______\________\______\_______\_
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     #  %  *  #  %  *  #  %  *  #  %  *  #
+</pre>
     </td>
   </tr>
 </table>
@@ -52,12 +66,12 @@
 | **Backend Engineering** | Node.js, Express.js, RESTful Architecture, WebSockets, JWT, RBAC, EJS |
 | **Artificial Intelligence** | Google Gemini API, Tool/Function Calling, Autonomous Agents, NumPy, Pandas, Scikit-Learn |
 | **Databases & Storage** | MongoDB Atlas, Mongoose ODM, PostgreSQL, Redis |
-| **DevOps & Infrastructure** | Docker, Kubernetes (Chaos Testing), Git, GitHub Actions, Linux/Bash, Postman |
+| **Developer Tools & Workflow** | Git, GitHub Actions, Postman, VS Code |
 
 </div>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,express,mongodb,postgres,redis,docker,kubernetes,git,github,vscode,postman,linux" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,express,mongodb,postgres,redis,git,github,vscode,postman" alt="Tech Stack Icons" />
 </p>
 
 ---
