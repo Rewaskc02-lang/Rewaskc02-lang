@@ -164,11 +164,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rewaskc02-lang&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Rewaskc02-lang&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rewaskc02-lang&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/38bdf8/Rewaskc02-lang" alt="Rewas's Contribution Calendar" />
 </p>
 
 ---
