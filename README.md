@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td width="66%" valign="top">
+    <td width="62%" valign="top">
       <p>
         Software engineer focused on building robust, scalable backend architectures and intelligent agentic systems. Experienced in architecting production-ready RESTful services, integrating LLM function calling for autonomous workflows, and hardening distributed cloud software.
       </p>
@@ -34,10 +34,8 @@
         <li><b>Examination:</b> Cleared the National Defence Academy (NDA) Written Examination</li>
       </ul>
     </td>
-    <td width="34%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Rewaskc02-lang/Rewaskc02-lang/main/assets/rewas_khatri.jpg" width="230" alt="Rewas Khatri" />
-      <br />
-      <sub><b>Rewas Khatri</b></sub>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Rewaskc02-lang/Rewaskc02-lang/main/assets/mountain.jpg" width="280" alt="Mountain Landscape" />
     </td>
   </tr>
 </table>
