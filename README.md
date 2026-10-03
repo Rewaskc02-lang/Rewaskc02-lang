@@ -4,7 +4,7 @@
 ### Software Engineer · Backend & Applied AI Systems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems+Engineering;Applied+AI+%26+Autonomous+Agent+Architectures;Open+Source+Contributor+(CNCF+krkn%2C+Rocket.Chat%2C+DeepChem);B.Tech+CSE+(AI+%26+ML)+%7C+200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems+Engineering;Applied+AI+%26+Autonomous+Agent+Architectures;Open+Source+Contributor+(CNCF+krkn%2C+Rocket.Chat%2C+DeepChem);B.Tech+CSE+(AI+%26+ML)+%7C+200%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,41 +18,19 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rewaskc02-lang/Rewaskc02-lang/main/assets/mountain_landscape.jpg" width="100%" alt="Mountain Landscape" />
+</p>
+
 ## Executive Summary
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <p>
-        Software engineer focused on building robust, scalable backend architectures and intelligent agentic systems. Experienced in architecting production-ready RESTful services, integrating LLM function calling for autonomous workflows, and hardening distributed cloud software.
-      </p>
-      <ul>
-        <li><b>Education:</b> B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning) at Mirai School of Technology — <b>CGPA 8.8 / 10</b></li>
-        <li><b>Open Source:</b> Active upstream contributor to CNCF Sandbox (<code>krkn</code>), <code>Rocket.Chat</code>, <code>DeepChem</code>, and <code>GreedyBear</code></li>
-        <li><b>Competitive Programming:</b> Solved <b>200+ DSA problems</b> on LeetCode with emphasis on optimal space-time complexities</li>
-        <li><b>Core Focus:</b> Distributed Backends, Asynchronous Agent Pipelines, Multi-Tenant Authentication (RBAC), and Microservices</li>
-        <li><b>Examination:</b> Cleared the National Defence Academy (NDA) Written Examination</li>
-      </ul>
-    </td>
-    <td width="42%" align="center" valign="middle">
-<pre align="center">
-      _.~"~._.~"~._.~"~._.~"~._.~"~._
-      \ _ /  \ _ /  \ _ /  \ _ /  \ _ /
-   ----'------'------'------'------'----
-                 /\
-                /  \         /\
-               /    \  /\   /  \      /\
-        /\    /      \/  \ /    \    /  \
-       /  \  /  /\    /   \      \  /    \
-      /    \/  /  \  /     \      \/      \
-     /      \ /    \/       \      \       \
-   _/__/\____\______\________\______\_______\_
-   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-     #  %  *  #  %  *  #  %  *  #  %  *  #
-</pre>
-    </td>
-  </tr>
-</table>
+Software engineer specializing in resilient backend architectures, asynchronous data pipelines, and agentic AI systems. Experienced in architecting production-ready RESTful services, integrating LLM function calling for autonomous workflows, and contributing upstream reliability and security patches to open-source systems.
+
+- **Education:** B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning) @ Mirai School of Technology — **CGPA 8.8 / 10**
+- **Open Source:** Upstream contributor to CNCF Sandbox (`krkn`), `Rocket.Chat`, `DeepChem`, and `GreedyBear`
+- **Competitive Programming:** Solved **200+ DSA problems** on LeetCode with strong fundamentals in algorithm optimization
+- **Core Focus:** Distributed Backends, Asynchronous Agent Pipelines, Multi-Tenant Authentication (RBAC), and Microservices
+- **Examination:** Cleared the National Defence Academy (NDA) Written Examination
 
 ---
 
@@ -172,17 +150,36 @@
 
 ## Engineering Telemetry
 
+<table>
+  <thead>
+    <tr>
+      <th align="center">Pull Requests Raised</th>
+      <th align="center">PRs Merged & Resolved</th>
+      <th align="center">Total Commits</th>
+      <th align="center">Public Repositories</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>8</b> Upstream PRs</td>
+      <td align="center"><b>4</b> Merged / Closed Patches</td>
+      <td align="center"><b>69+</b> Production Commits</td>
+      <td align="center"><b>33</b> Repositories</td>
+    </tr>
+  </tbody>
+</table>
+
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Rewaskc02-lang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rewas's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rewaskc02-lang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Rewaskc02-lang&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=nord&hide_border=true" alt="Rewas's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rewaskc02-lang&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rewaskc02-lang&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Rewaskc02-lang&theme=nord&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/Rewaskc02-lang" alt="Rewas's Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/88c0d0/Rewaskc02-lang" alt="Rewas's Contribution Calendar" />
 </p>
 
 ---
