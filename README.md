@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rewaskc02-lang/Rewaskc02-lang/main/assets/mountain_landscape.jpg" width="100%" alt="Mountain Landscape" />
+  <img src="https://raw.githubusercontent.com/Rewaskc02-lang/Rewaskc02-lang/main/assets/mountain_landscape.jpg" width="600" alt="Mountain Landscape" />
 </p>
 
 ## Executive Summary
